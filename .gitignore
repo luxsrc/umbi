@@ -1,0 +1,14 @@
+# Global settings
+*
+!*/
+
+# Source codes
+!*.[ch]
+
+# Build system
+!*.a[cm]
+lux.h*
+
+# Documentations
+_build/
+!*.rst
